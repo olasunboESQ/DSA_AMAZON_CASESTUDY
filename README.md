@@ -1,6 +1,30 @@
 # DSA_AMAZON_CASESTUDY
 
 ### Data Analyst at RetailTech Insights, a company that provides
+
+
+- [Project Overiew](#project-overview)
+
+- [Analysis Tools](#analysis-tools)
+
+- [OUTCOME OF Order Data USING MICROSOFT EXCEL](#outcome-of-order-data-using-microsoft-excel)
+
+- [OUTCOME OF ORDER_DATA USING Structured Query Language (SQL)](#outcome-of-order-data-using-structured-query-language-sql)
+
+- [FINDINGS AND RECOMMENDATIONS](#findings-and-recommendations)
+
+
+
+
+
+
+
+
+
+
+
+
+
 e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been
 tasked with analysing product and customer review data to generate insights that can
 guide product improvement, marketing strategies, and customer engagement.
