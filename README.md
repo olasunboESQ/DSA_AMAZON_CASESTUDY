@@ -93,13 +93,26 @@ I also created new columns such as Price Bucket , Potential Revenue, Group Disco
 
 
 
-9. What is the total potential revenue (actual_price × rating_count) by category?
+          9. What is the total potential revenue (actual_price × rating_count) by category?
+
+For this question, I created a column on the Excel table called Potential Revenue
+
+![Screenshot (32)](https://github.com/user-attachments/assets/0299d1da-da30-4b97-9576-606a76904a27)
+
+
+
+
 10. What is the number of unique products per price range bucket (e.g., <₹200,
 ₹200–₹500, >₹500)?
+
+![image](https://github.com/user-attachments/assets/daca1935-5722-4323-8334-eb309ad2bb21)
+
 
 
 
 - [Project Overiew](#project-overview)
+
+
 
 - [Analysis Tools](#analysis-tools)
 
