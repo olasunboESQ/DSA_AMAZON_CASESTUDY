@@ -26,6 +26,9 @@ Total Records: 1,465 rows and TotalFields: 16 columns
 - [FINDINGS AND RECOMMENDATIONS](#findings-and-recommendations)
 
 
+### Analysis Tool
+
+- The main analysis tool for cleaning and analzing this dataset is Microsoft Excel [Download Here](https://www.microsoft.com)
 
 3. Analysis Tasks
 Use pivot tables and calculated columns where necessary to answer the following:
