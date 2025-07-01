@@ -81,33 +81,44 @@ I also created new columns such as Price Bucket , Potential Revenue, Group Disco
 
            7. How many products have a discount of 50% or more?
 
-![image](https://github.com/user-attachments/assets/a09023bf-c7ac-45bf-b6d2-77f1c66c695b)
+	
+![image](https://github.com/user-attachments/assets/b5f7f34f-7243-445d-837e-03a3977fe08f)
+
 
 
           8. What is the distribution of product ratings (e.g., how many products are rated 3.0,4.0, etc.)?
 
 
-
-
-
+![image](https://github.com/user-attachments/assets/ad12fe32-8042-4fc7-b79a-2b00e9ebf5db)
 
 
 
           9. What is the total potential revenue (actual_price × rating_count) by category?
 
-For this question, I created a column on the Excel table called Potential Revenue
+- For this question, I created a column on the Excel table called Potential Revenue
 
 ![Screenshot (32)](https://github.com/user-attachments/assets/0299d1da-da30-4b97-9576-606a76904a27)
 
 
 
-
-10. What is the number of unique products per price range bucket (e.g., <₹200,
-₹200–₹500, >₹500)?
+        10. What is the number of unique products per price range bucket (e.g., <₹200,₹200–₹500, >₹500)?
 
 ![image](https://github.com/user-attachments/assets/daca1935-5722-4323-8334-eb309ad2bb21)
 
 
+        11. How does the rating relate to the level of discount?
+
+        
+        12. How many products have fewer than 1,000 reviews?
+
+
+        13. Which categories have products with the highest discounts?
+
+
+  
+
+
+13. Identify the top 5 products in terms of rating and number of reviews combined.
 
 
 - [Project Overiew](#project-overview)
