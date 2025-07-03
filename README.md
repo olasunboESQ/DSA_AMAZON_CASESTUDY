@@ -27,12 +27,12 @@ The dataset contains information scraped from Amazon product pages, including:
 
 
 
-### Analysis Tool
+#### Analysis Tool
 
 - The main analysis tool for cleaning and analzing this dataset is Microsoft Excel [Download Here](https://www.microsoft.com)
 
 
-### Exploratory Details
+#### Exploratory Details
 
 This dataset is so dirty that i had to do so much cleaing processes such as:
 
@@ -133,5 +133,5 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 
 
 
-### DASHBOARD OVERVIEW
+#### DASHBOARD OVERVIEW
 
