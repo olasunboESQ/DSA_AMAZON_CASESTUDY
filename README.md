@@ -2,6 +2,20 @@
 
 ### This Casestudy is about data analysis of product and customer data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
+- [Project Overiew](#project-overview)
+
+- [Analysis Tools](#analysis-tools)
+
+- [Exploratory Details](#eploratory-details)
+
+- [OUTCOME OF Amazon Product Data USING MICROSOFT EXCEL](#outcome-of-amazon-product-data-using-microsoft-excel)
+
+- [OUTCOME OF ORDER_DATA USING Structured Query Language (SQL)](#outcome-of-order-data-using-structured-query-language-sql)
+
+- [FINDINGS AND RECOMMENDATIONS](#findings-and-recommendations)
+
+
+
 #### Project Overview (DATASET DESCRIPTION)
 
 The dataset contains information scraped from Amazon product pages, including:
@@ -10,20 +24,8 @@ The dataset contains information scraped from Amazon product pages, including:
 
 • Customer engagement: user reviews, titles, and content
 
-• Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
+• Each row represents a unique product, with aggregated reviewer data stored as comma-separated values. Total Records: 1,465 rows and TotalFields: 16 columns
 
-Total Records: 1,465 rows and TotalFields: 16 columns
-
-
-- [Project Overiew](#project-overview)
-
-- [Analysis Tools](#analysis-tools)
-
-- [OUTCOME OF Order Data USING MICROSOFT EXCEL](#outcome-of-order-data-using-microsoft-excel)
-
-- [OUTCOME OF ORDER_DATA USING Structured Query Language (SQL)](#outcome-of-order-data-using-structured-query-language-sql)
-
-- [FINDINGS AND RECOMMENDATIONS](#findings-and-recommendations)
 
 
 ### Analysis Tool
@@ -32,64 +34,61 @@ Total Records: 1,465 rows and TotalFields: 16 columns
 
 This dataset is so dirty that i had to do so much cleaing processes such as:
 
-- Deleted all unnecessary columns such as
+- Deleted all unnecessary columns such as: About Product, User ID, User Name, Review Title, Review Content, Img Link and Product Link.
 
-About Product, User ID, User Name, Review Title, Review Content, Img Link and Product Link.
-I thereafter proceeded to writing the Headings/Titles of each columns properly as some were in lower cases and there was an underscore symbol inserted too.
-I proceeded to create new columns in order to clean the Category column as the names in it were too long. I did this by using the Text to Column tab, i therefore break the names into columns using delimiter. From this step I got the Product Column which consisted of the names of product that were embedded in the category column.
+- I thereafter proceeded to writing the Headings/Titles of each columns properly as some were in lower cases and there was an underscore symbol inserted too.
 
-I also created new columns such as Price Bucket , Potential Revenue, Group Discount and Rating Score
+- I also created new columns in order to clean the Category column as the names in it were too long. I did this by using the Text to Column tab,
+  i therefore break the names into columns using delimiter. From this step I got the Product Column which consisted of the names of product that were embedded in the category column.
+
+- Finally, I  created new columns such as Price Bucket , Potential Revenue, Group Discount and Rating Score
+
 #### Analysis Tasks
 
 - Use pivot tables and calculated columns where necessary to answer the following:
   
         1. What is the average discount percentage by product category?
 
-![image](https://github.com/user-attachments/assets/05db4300-bf37-4d8c-9886-2726419685ad)
+![image](https://github.com/user-attachments/assets/bf63b81d-057e-4311-9319-bab030dd25b2)
 
  
-
         2. How many products are listed under each category?
 
-
-![image](https://github.com/user-attachments/assets/eb64badd-d29b-48cd-97df-4420c26c5ff5)
+![image](https://github.com/user-attachments/assets/2056163b-5f72-4ba5-b900-884155b40d6c)
 
 
         
         3. What is the total number of reviews per category?
 
-![image](https://github.com/user-attachments/assets/7c79bd81-1ce8-4b38-a7ff-1f2d125eb621)
+![image](https://github.com/user-attachments/assets/8a680f63-a26c-4408-8175-3c5fc5d3fbbb)
+
  
 
        4. Which products have the highest average ratings?
 
-![image](https://github.com/user-attachments/assets/b990ef63-df19-47ac-89d8-638451c3fa96)
-
+![image](https://github.com/user-attachments/assets/77d0f089-1447-4839-9913-732a2a77f1f2)
 
 
          5. What is the average actual price vs the discounted price by category?
 
-![image](https://github.com/user-attachments/assets/63c8ffff-cf4f-4250-9c72-7763d25138c0)
+![image](https://github.com/user-attachments/assets/845065a7-dc45-47a1-b2d9-94b893726aa9)
 
 
          
           6. Which products have the highest number of reviews?
 
+![image](https://github.com/user-attachments/assets/1c79b1a1-3a29-4726-81fc-b863a2a747cc)
 
-![image](https://github.com/user-attachments/assets/0dd68266-fb90-4a60-a8f0-91e2808e8d97)
+         
+	   7. How many products have a discount of 50% or more?
 
 
-           7. How many products have a discount of 50% or more?
-
-	
-![image](https://github.com/user-attachments/assets/b5f7f34f-7243-445d-837e-03a3977fe08f)
-
+![image](https://github.com/user-attachments/assets/44e14636-8231-4764-a1ce-d2e2e4af8cac)
 
 
           8. What is the distribution of product ratings (e.g., how many products are rated 3.0,4.0, etc.)?
 
-
-![image](https://github.com/user-attachments/assets/ad12fe32-8042-4fc7-b79a-2b00e9ebf5db)
+![image](https://github.com/user-attachments/assets/2d3520ab-fd91-423b-a1e9-edef459d24fd)
 
 
 
