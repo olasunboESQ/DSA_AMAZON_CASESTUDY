@@ -111,8 +111,11 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 
         11. How does the rating relate to the level of discount?
 
+![image](https://github.com/user-attachments/assets/79f52cb1-5f46-46d1-ada1-97d19f924b93)
 
-
+- The rating generally remains high across various levels of discount. This suggests that the rating does not consistently decrease or increase in a linear fashion with the level of discount, but rather 
+ tends to stay within a relatively high range,
+  
 	
         12. How many products have fewer than 1,000 reviews?
 
@@ -136,4 +139,7 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 
 
 #### DASHBOARD OVERVIEW
+
+![Screenshot (34)](https://github.com/user-attachments/assets/ae8f7778-93b2-4a67-b7ac-1aecb158014c)
+
 
