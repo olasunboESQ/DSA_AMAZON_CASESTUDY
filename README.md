@@ -8,7 +8,7 @@
 
 - [Exploratory Details](#eploratory-details)
 
-- [OUTCOME OF Amazon Product Data USING MICROSOFT EXCEL](#outcome-of-amazon-product-data-using-microsoft-excel)
+- [Outcome of Amazon Product Data Using Microsoft Excel](#outcome-of-amazon-product-data-using-microsoft-excel)
 
 - [DASHBOARD OVERVIEW](#dashboard-overview)
 
@@ -45,9 +45,11 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 
 - Finally, I  created new columns such as Price Bucket , Potential Revenue, Group Discount and Rating Score
 
-#### Analysis Tasks
+#### Outcome of Amazon Product Data Using Microsoft Excel
 
-- Use pivot tables and calculated columns where necessary to answer the following:
+- Analysis Tasks
+
+       - Use pivot tables and calculated columns where necessary to answer the following:
   
         1. What is the average discount percentage by product category?
 
