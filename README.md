@@ -15,7 +15,7 @@
 
 #### Project Overview
 
-- (DATASET DESCRIPTION)
+- (DATASET DESCRIPTION) :laptop:
 
 The dataset contains information scraped from Amazon product pages, including:
 
