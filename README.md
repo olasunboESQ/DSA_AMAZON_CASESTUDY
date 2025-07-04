@@ -75,7 +75,8 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 
          5. What is the average actual price vs the discounted price by category?
 
-![image](https://github.com/user-attachments/assets/845065a7-dc45-47a1-b2d9-94b893726aa9)
+
+![image](https://github.com/user-attachments/assets/1e1e5214-4f59-4155-b240-bce4ef2ce875)
 
 
          
@@ -98,10 +99,11 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 
           9. What is the total potential revenue (actual_price × rating_count) by category?
 
-- For this question, I created a column on the Excel table called Potential Revenue
+- For this question, I created a column on the Excel table called Potential Revenue using actual price * rating count. i thereafter use Pivot table to visualize the potential revenue by category.
 
 ![Screenshot (32)](https://github.com/user-attachments/assets/0299d1da-da30-4b97-9576-606a76904a27)
 
+![image](https://github.com/user-attachments/assets/e65c273e-2ea3-4666-9220-2e31f4be8782)
 
 
         10. What is the number of unique products per price range bucket (e.g., <₹200,₹200–₹500, >₹500)?
