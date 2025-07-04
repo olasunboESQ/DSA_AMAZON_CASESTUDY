@@ -58,10 +58,10 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 
 #### 2. How many products are listed under each category?
 
-      - Methodology: Utilized an Excel Pivot Table. 'Product Category' was placed in the Rows area, 
+  - Methodology: Utilized an Excel Pivot Table. 'Product Category' was placed in the Rows area, 
         and 'product_name' was placed in the Values area, set to show the 'Count'. 
 
-   - RESULT
+      - RESULT
   
  ![image](https://github.com/user-attachments/assets/2056163b-5f72-4ba5-b900-884155b40d6c)
 
