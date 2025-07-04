@@ -15,7 +15,7 @@
 
 #### Project Overview
 
-- (DATASET DESCRIPTION) :laptop:
+- (DATASET DESCRIPTION) 
 
 The dataset contains information scraped from Amazon product pages, including:
 
@@ -143,5 +143,15 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 #### DASHBOARD OVERVIEW
 
 ![Screenshot (34)](https://github.com/user-attachments/assets/ae8f7778-93b2-4a67-b7ac-1aecb158014c)
+
+![image](https://github.com/user-attachments/assets/5daf34a9-43cb-45bc-b253-03a1c6b78e10)
+
+![image](https://github.com/user-attachments/assets/3deb64ef-1ca5-456a-940c-b20ee47cb7b2)
+
+![image](https://github.com/user-attachments/assets/12f826e9-b8b3-4ea1-9a21-73e49bc85470)
+
+
+
+
 
 
