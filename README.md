@@ -1,4 +1,4 @@
-# DSA_AMAZON_CASESTUDY
+# 📊  DSA_AMAZON_CASESTUDY
 
 ### This Casestudy is about data analysis of product and customer data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
@@ -32,7 +32,7 @@ The dataset contains information scraped from Amazon product pages, including:
 - The main analysis tool for cleaning and analzing this dataset is Microsoft Excel [Download Here](https://www.microsoft.com)
 
 
-#### Exploratory Details
+#### 🎯 Exploratory Details
 
 This dataset is so dirty that i had to do so much cleaing processes such as:
 
@@ -182,6 +182,15 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 ![image](https://github.com/user-attachments/assets/3deb64ef-1ca5-456a-940c-b20ee47cb7b2)
 
 ![image](https://github.com/user-attachments/assets/12f826e9-b8b3-4ea1-9a21-73e49bc85470)
+
+
+### FINDINGS AND RECOMMENDATIONS
+
+Categories such as Toys&Games, Office Products,... offered the highest average discounts.
+Products with 4.0 stars and above dominate the dataset.
+Most products are priced in the ₹200–₹500 range.
+A few products significantly outperform others in both rating and review count.
+Revenue estimation based on actual_price × review_count highlights the top-grossing categories.
 
 
 
