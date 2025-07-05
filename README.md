@@ -1,4 +1,4 @@
-# 📊  DSA_AMAZON_CASESTUDY
+# 📊  DSA_AMAZON_CASE STUDY
 
 ### This Casestudy is about data analysis of product and customer data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
@@ -186,11 +186,15 @@ This dataset is so dirty that i had to do so much cleaing processes such as:
 
 ### FINDINGS AND RECOMMENDATIONS
 
-Categories such as Toys&Games, Office Products,... offered the highest average discounts.
-Products with 4.0 stars and above dominate the dataset.
-Most products are priced in the ₹200–₹500 range.
-A few products significantly outperform others in both rating and review count.
-Revenue estimation based on actual_price × review_count highlights the top-grossing categories.
+- Categories such as Toys&Games, Office Products offered the highest average discounts.
+
+- Products with 4.0 stars and above dominate the dataset.
+
+- Most products are priced in the ₹200–₹500 range.
+
+- A few products significantly outperform others in both rating and review count.
+
+- Revenue estimation based on actual_price × review_count highlights the top-grossing categories.
 
 
 
